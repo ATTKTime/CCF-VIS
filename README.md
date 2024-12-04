@@ -7,10 +7,15 @@ npm install
 npm run dev
 ```
 
-后端请在终端`src/backend`路径下运行
+后端请在终端`src/backend`路径下运行安装依赖
 
 ```bash
 pip install -r requirements.txt
+```
+
+你可以通过命令来启动后端，也可以直接运行main.py文件启动后端
+
+```bash
 uvicorn main:app --reload
 ```
 
