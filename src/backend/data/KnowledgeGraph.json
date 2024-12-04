@@ -1,0 +1,6522 @@
+{
+    "nodes": [
+        {
+            "id": "计算机体系结构/并行与分布计算/存储系统",
+            "data": {
+                "count": 10000,
+                "cluster": 0
+            }
+        },
+        {
+            "id": "ASAP",
+            "data": {
+                "count": 1343,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ASP-DAC",
+            "data": {
+                "count": 3956,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ASPLOS",
+            "data": {
+                "count": 1284,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ATS",
+            "data": {
+                "count": 1618,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CASES",
+            "data": {
+                "count": 1002,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CCGRID",
+            "data": {
+                "count": 2355,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CF",
+            "data": {
+                "count": 866,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CGO",
+            "data": {
+                "count": 584,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CLUSTER",
+            "data": {
+                "count": 1823,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CODES+ISSS",
+            "data": {
+                "count": 245,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "CCPE",
+            "data": {
+                "count": 5288,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "DAC",
+            "data": {
+                "count": 7771,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "DATE",
+            "data": {
+                "count": 7160,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "DC",
+            "data": {
+                "count": 753,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ETS",
+            "data": {
+                "count": 881,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "Euro-Par",
+            "data": {
+                "count": 3903,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "EuroSys",
+            "data": {
+                "count": 520,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FAST",
+            "data": {
+                "count": 503,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FCCM",
+            "data": {
+                "count": 1398,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FGCS",
+            "data": {
+                "count": 6234,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FPGA",
+            "data": {
+                "count": 1495,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FPL",
+            "data": {
+                "count": 3014,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "FPT",
+            "data": {
+                "count": 1353,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "GLSVLSI",
+            "data": {
+                "count": 2304,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HiPC",
+            "data": {
+                "count": 1449,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HiPEAC",
+            "data": {
+                "count": 378,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HotI",
+            "data": {
+                "count": 374,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HPCA",
+            "data": {
+                "count": 104,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HPCC",
+            "data": {
+                "count": 3008,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "HPDC",
+            "data": {
+                "count": 1450,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICA3PP",
+            "data": {
+                "count": 1712,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICCAD",
+            "data": {
+                "count": 4296,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICCD",
+            "data": {
+                "count": 3352,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICDCS",
+            "data": {
+                "count": 5189,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICPADS",
+            "data": {
+                "count": 2644,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICPP",
+            "data": {
+                "count": 5365,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ICS",
+            "data": {
+                "count": 1634,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "IEEE Transactions on Cloud Computing",
+            "data": {
+                "count": 657,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "Integration",
+            "data": {
+                "count": 1850,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "IPDPS",
+            "data": {
+                "count": 9056,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ISCA",
+            "data": {
+                "count": 2407,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ISCAS",
+            "data": {
+                "count": 14793,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ISLPED",
+            "data": {
+                "count": 1754,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ISPA",
+            "data": {
+                "count": 3105,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ISPD",
+            "data": {
+                "count": 817,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "ITC",
+            "data": {
+                "count": 4631,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "JETC",
+            "data": {
+                "count": 572,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "JPDC",
+            "data": {
+                "count": 4273,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "JSA",
+            "data": {
+                "count": 2505,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "LISA",
+            "data": {
+                "count": 784,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "MASCOTS",
+            "data": {
+                "count": 1604,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "MICPRO",
+            "data": {
+                "count": 4198,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "MICRO",
+            "data": {
+                "count": 0,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "MSST",
+            "data": {
+                "count": 632,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "NOCS",
+            "data": {
+                "count": 416,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "NPC",
+            "data": {
+                "count": 777,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "PACT",
+            "data": {
+                "count": 1243,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "PARCO",
+            "data": {
+                "count": 0,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "Performance",
+            "data": {
+                "count": 274,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "PODC",
+            "data": {
+                "count": 2131,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "PPoPP",
+            "data": {
+                "count": 1170,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "RTAS",
+            "data": {
+                "count": 920,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "RTS",
+            "data": {
+                "count": 773,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "SC",
+            "data": {
+                "count": 4133,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "SIGMETRICS",
+            "data": {
+                "count": 1839,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "SOCC",
+            "data": {
+                "count": 539,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "SPAA",
+            "data": {
+                "count": 1430,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "SYSTOR",
+            "data": {
+                "count": 294,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TAAS",
+            "data": {
+                "count": 331,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TACO",
+            "data": {
+                "count": 782,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TC",
+            "data": {
+                "count": 10429,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TCAD",
+            "data": {
+                "count": 6348,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TECS",
+            "data": {
+                "count": 1456,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TJSC",
+            "data": {
+                "count": 4625,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TOCS",
+            "data": {
+                "count": 485,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TODAES",
+            "data": {
+                "count": 1211,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TOS",
+            "data": {
+                "count": 378,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TPDS",
+            "data": {
+                "count": 4972,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TRETS",
+            "data": {
+                "count": 393,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "TVLSI",
+            "data": {
+                "count": 4934,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "USENIX ATC",
+            "data": {
+                "count": 1601,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "VEE",
+            "data": {
+                "count": 296,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "VTS",
+            "data": {
+                "count": 1910,
+                "cluster": "计算机体系结构/并行与分布计算/存储系统"
+            }
+        },
+        {
+            "id": "计算机网络",
+            "data": {
+                "count": 10000,
+                "cluster": 1
+            }
+        },
+        {
+            "id": "ACM Transactions on Multimedia Computing, Communications and Applications",
+            "data": {
+                "count": 940,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "Ad hoc Networks",
+            "data": {
+                "count": 2303,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "ANCS",
+            "data": {
+                "count": 465,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "APNOMS",
+            "data": {
+                "count": 1221,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "CN",
+            "data": {
+                "count": 7489,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "Computer Communications",
+            "data": {
+                "count": 6765,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "CoNEXT",
+            "data": {
+                "count": 1178,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "FORTE",
+            "data": {
+                "count": 922,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "GLOBECOM",
+            "data": {
+                "count": 22492,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "HotNets",
+            "data": {
+                "count": 402,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "ICC",
+            "data": {
+                "count": 24537,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "ICCCN",
+            "data": {
+                "count": 3313,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "ICNP",
+            "data": {
+                "count": 1410,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IET Communications",
+            "data": {
+                "count": 4417,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IM",
+            "data": {
+                "count": 1866,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IMC",
+            "data": {
+                "count": 861,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "INFOCOM",
+            "data": {
+                "count": 8366,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IPCCC",
+            "data": {
+                "count": 1473,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IPSN",
+            "data": {
+                "count": 1157,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "ISCC",
+            "data": {
+                "count": 4372,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "IWQoS",
+            "data": {
+                "count": 946,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "JNCA",
+            "data": {
+                "count": 2793,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "JSAC",
+            "data": {
+                "count": 7203,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "LCN",
+            "data": {
+                "count": 3602,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MASS",
+            "data": {
+                "count": 1907,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MobiCom",
+            "data": {
+                "count": 2386,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MobiHoc",
+            "data": {
+                "count": 1061,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MobiSys",
+            "data": {
+                "count": 1593,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MONET",
+            "data": {
+                "count": 2169,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MSN",
+            "data": {
+                "count": 1068,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "MSWiM",
+            "data": {
+                "count": 1998,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "Networking",
+            "data": {
+                "count": 1779,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "Networks",
+            "data": {
+                "count": 2363,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "NOSSDAV",
+            "data": {
+                "count": 504,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "NSDI",
+            "data": {
+                "count": 791,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "P2P",
+            "data": {
+                "count": 538,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "PPNA",
+            "data": {
+                "count": 1274,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "SECON",
+            "data": {
+                "count": 1377,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "SenSys",
+            "data": {
+                "count": 2330,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "SIGCOMM",
+            "data": {
+                "count": 2420,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TCOM",
+            "data": {
+                "count": 15616,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TMC",
+            "data": {
+                "count": 3079,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TNSM",
+            "data": {
+                "count": 1287,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TOIT",
+            "data": {
+                "count": 615,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TON",
+            "data": {
+                "count": 3749,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TOSN",
+            "data": {
+                "count": 663,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "TWC",
+            "data": {
+                "count": 9594,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "WASA",
+            "data": {
+                "count": 1028,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "WCMC",
+            "data": {
+                "count": 3988,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "WCNC",
+            "data": {
+                "count": 11201,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "Wireless Networks",
+            "data": {
+                "count": 3402,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "WoWMoM",
+            "data": {
+                "count": 1821,
+                "cluster": "计算机网络"
+            }
+        },
+        {
+            "id": "网络与信息安全",
+            "data": {
+                "count": 10000,
+                "cluster": 2
+            }
+        },
+        {
+            "id": "ACISP",
+            "data": {
+                "count": 973,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ACNS",
+            "data": {
+                "count": 714,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ACSAC",
+            "data": {
+                "count": 1461,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "AsiaCCS",
+            "data": {
+                "count": 2564,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ASIACRYPT",
+            "data": {
+                "count": 1374,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "CCS",
+            "data": {
+                "count": 4535,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "CHES",
+            "data": {
+                "count": 872,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "Computers & Security",
+            "data": {
+                "count": 3787,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "CRYPTO",
+            "data": {
+                "count": 1921,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "CSFW",
+            "data": {
+                "count": 820,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "CT-RSA",
+            "data": {
+                "count": 577,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "Designs, Codes and Cryptography",
+            "data": {
+                "count": 2872,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "DFRWS",
+            "data": {
+                "count": 527,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "DIMVA",
+            "data": {
+                "count": 302,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "DRM",
+            "data": {
+                "count": 128,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "DSN",
+            "data": {
+                "count": 2115,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ESORICS",
+            "data": {
+                "count": 1600,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "EURASIP Journal on Information Security",
+            "data": {
+                "count": 197,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "EUROCRYPT",
+            "data": {
+                "count": 1677,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "FC",
+            "data": {
+                "count": 1076,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "FSE",
+            "data": {
+                "count": 852,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ICDF2C",
+            "data": {
+                "count": 133,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ICICS",
+            "data": {
+                "count": 912,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "IET Information Security",
+            "data": {
+                "count": 649,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "IH&MMSec",
+            "data": {
+                "count": 573,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "IJICS",
+            "data": {
+                "count": 337,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "IJISP",
+            "data": {
+                "count": 337,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "IMCS",
+            "data": {
+                "count": 862,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "ISC",
+            "data": {
+                "count": 721,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "JCS",
+            "data": {
+                "count": 626,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "JISA",
+            "data": {
+                "count": 1348,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "Journal of Cryptology",
+            "data": {
+                "count": 708,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "NDSS",
+            "data": {
+                "count": 1005,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "NSPW",
+            "data": {
+                "count": 382,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "PAM",
+            "data": {
+                "count": 449,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "PETS",
+            "data": {
+                "count": 685,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "PKC",
+            "data": {
+                "count": 836,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "RAID",
+            "data": {
+                "count": 579,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "S&P",
+            "data": {
+                "count": 1825,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SAC",
+            "data": {
+                "count": 588,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SACMAT",
+            "data": {
+                "count": 597,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SCN",
+            "data": {
+                "count": 3173,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SEC",
+            "data": {
+                "count": 986,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SecureComm",
+            "data": {
+                "count": 821,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SOUPS",
+            "data": {
+                "count": 442,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "SRDS",
+            "data": {
+                "count": 1310,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "TDSC",
+            "data": {
+                "count": 1085,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "Theory of Cryptography Conference",
+            "data": {
+                "count": 795,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "TIFS",
+            "data": {
+                "count": 2832,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "TrustCom",
+            "data": {
+                "count": 2543,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "USENIX Security",
+            "data": {
+                "count": 2188,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "WiSec",
+            "data": {
+                "count": 493,
+                "cluster": "网络与信息安全"
+            }
+        },
+        {
+            "id": "软件工程/系统软件/程序设计语言",
+            "data": {
+                "count": 10000,
+                "cluster": 3
+            }
+        },
+        {
+            "id": "AEI",
+            "data": {
+                "count": 1814,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "APLAS",
+            "data": {
+                "count": 557,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "APSEC",
+            "data": {
+                "count": 2150,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ATVA",
+            "data": {
+                "count": 625,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "Automated Software Engineering",
+            "data": {
+                "count": 573,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "CAiSE",
+            "data": {
+                "count": 3400,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "CL",
+            "data": {
+                "count": 693,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "COMPSAC",
+            "data": {
+                "count": 6035,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "CP",
+            "data": {
+                "count": 1754,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "Data and Knowledge Engineering",
+            "data": {
+                "count": 1805,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "DMKD",
+            "data": {
+                "count": 947,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "EASE",
+            "data": {
+                "count": 526,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ECOOP",
+            "data": {
+                "count": 2165,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "EJIS",
+            "data": {
+                "count": 964,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ESE",
+            "data": {
+                "count": 1261,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ESEM",
+            "data": {
+                "count": 870,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ETAPS",
+            "data": {
+                "count": 4338,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "FM",
+            "data": {
+                "count": 1298,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "FSE-ESEC",
+            "data": {
+                "count": 2481,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "GeoInformatica",
+            "data": {
+                "count": 610,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "HotOS",
+            "data": {
+                "count": 474,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICECCS",
+            "data": {
+                "count": 918,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICFEM",
+            "data": {
+                "count": 729,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICFP",
+            "data": {
+                "count": 1625,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICPC",
+            "data": {
+                "count": 1030,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICSE",
+            "data": {
+                "count": 6625,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICSME",
+            "data": {
+                "count": 2720,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICSOC",
+            "data": {
+                "count": 1648,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICSR",
+            "data": {
+                "count": 509,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICSSP",
+            "data": {
+                "count": 805,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICST",
+            "data": {
+                "count": 1639,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICWE",
+            "data": {
+                "count": 1478,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICWS",
+            "data": {
+                "count": 2114,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "IEEE IREC",
+            "data": {
+                "count": 2114,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "IETS",
+            "data": {
+                "count": 882,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "IJSEKE",
+            "data": {
+                "count": 1487,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "Information Sciences",
+            "data": {
+                "count": 12838,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ICASE",
+            "data": {
+                "count": 2603,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "IPM",
+            "data": {
+                "count": 3667,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ISPASS",
+            "data": {
+                "count": 651,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ISSRE",
+            "data": {
+                "count": 1933,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "ISSTA",
+            "data": {
+                "count": 1106,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "IST",
+            "data": {
+                "count": 3159,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "JFP",
+            "data": {
+                "count": 830,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "JLAP",
+            "data": {
+                "count": 1406,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "JSEP",
+            "data": {
+                "count": 1139,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "JSS",
+            "data": {
+                "count": 5151,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "JWE",
+            "data": {
+                "count": 539,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "LCTES",
+            "data": {
+                "count": 488,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "LOPSTR",
+            "data": {
+                "count": 626,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "Middleware",
+            "data": {
+                "count": 1223,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "MoDELS",
+            "data": {
+                "count": 2352,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "MSR",
+            "data": {
+                "count": 915,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "OOPSLA",
+            "data": {
+                "count": 3241,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "OSDI",
+            "data": {
+                "count": 643,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "PASTE",
+            "data": {
+                "count": 137,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "PEPM",
+            "data": {
+                "count": 438,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "PLDI",
+            "data": {
+                "count": 1881,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "POPL",
+            "data": {
+                "count": 2391,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "REFSQ",
+            "data": {
+                "count": 627,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "Requirements Engineering",
+            "data": {
+                "count": 538,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SANER",
+            "data": {
+                "count": 1505,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SAS",
+            "data": {
+                "count": 798,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SCAM",
+            "data": {
+                "count": 509,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SCC",
+            "data": {
+                "count": 1777,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SCP",
+            "data": {
+                "count": 2554,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SEKE",
+            "data": {
+                "count": 3056,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SOCA",
+            "data": {
+                "count": 327,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SOSP",
+            "data": {
+                "count": 866,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SoSyM",
+            "data": {
+                "count": 1004,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SPE",
+            "data": {
+                "count": 3667,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SPIN",
+            "data": {
+                "count": 427,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "SQJ",
+            "data": {
+                "count": 809,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "STTT",
+            "data": {
+                "count": 864,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "STVR",
+            "data": {
+                "count": 688,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TASE",
+            "data": {
+                "count": 495,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TKDD",
+            "data": {
+                "count": 708,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TOOLS",
+            "data": {
+                "count": 2570,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TOPLAS",
+            "data": {
+                "count": 1117,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TOSEM",
+            "data": {
+                "count": 603,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TPLP",
+            "data": {
+                "count": 797,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TSC",
+            "data": {
+                "count": 931,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TSE",
+            "data": {
+                "count": 3870,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "TWEB",
+            "data": {
+                "count": 317,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "VMCAI",
+            "data": {
+                "count": 556,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "WICSA",
+            "data": {
+                "count": 952,
+                "cluster": "软件工程/系统软件/程序设计语言"
+            }
+        },
+        {
+            "id": "数据库/数据挖掘/内容检索",
+            "data": {
+                "count": 10000,
+                "cluster": 4
+            }
+        },
+        {
+            "id": "APWeb",
+            "data": {
+                "count": 2049,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "CIDR",
+            "data": {
+                "count": 519,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "CIKM",
+            "data": {
+                "count": 7465,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "DASFAA",
+            "data": {
+                "count": 2608,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "DEXA",
+            "data": {
+                "count": 5212,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "DPD",
+            "data": {
+                "count": 572,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ECIR",
+            "data": {
+                "count": 2005,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ECML-PKDD",
+            "data": {
+                "count": 3760,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "EDBT",
+            "data": {
+                "count": 2440,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ER",
+            "data": {
+                "count": 2731,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ESWC",
+            "data": {
+                "count": 2374,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "I&M",
+            "data": {
+                "count": 2505,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ICDEIEEE",
+            "data": {
+                "count": 6175,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ICDM",
+            "data": {
+                "count": 5784,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ICDT",
+            "data": {
+                "count": 1201,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IJCIS",
+            "data": {
+                "count": 510,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IJGIS",
+            "data": {
+                "count": 2457,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IJKM",
+            "data": {
+                "count": 340,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IJSWIS",
+            "data": {
+                "count": 294,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "Information Processing Letters",
+            "data": {
+                "count": 8112,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IJIS",
+            "data": {
+                "count": 2429,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IR",
+            "data": {
+                "count": 577,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "IS",
+            "data": {
+                "count": 2134,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "ISWC",
+            "data": {
+                "count": 4808,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JASIST",
+            "data": {
+                "count": 6658,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JCIS",
+            "data": {
+                "count": 1043,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JDM",
+            "data": {
+                "count": 385,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JIIS",
+            "data": {
+                "count": 1008,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JSIS",
+            "data": {
+                "count": 729,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "JWS",
+            "data": {
+                "count": 551,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "KAIS",
+            "data": {
+                "count": 1872,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "MDM",
+            "data": {
+                "count": 1465,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "PAKDD",
+            "data": {
+                "count": 2915,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "PODS",
+            "data": {
+                "count": 1279,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SDM",
+            "data": {
+                "count": 1704,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SIGIR",
+            "data": {
+                "count": 5757,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SIGKDD",
+            "data": {
+                "count": 5425,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SIGMOD",
+            "data": {
+                "count": 4642,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SSDBM",
+            "data": {
+                "count": 1241,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "SSTD",
+            "data": {
+                "count": 478,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "VLDB",
+            "data": {
+                "count": 2855,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "WAIM",
+            "data": {
+                "count": 1897,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "WebDB",
+            "data": {
+                "count": 295,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "WISE",
+            "data": {
+                "count": 1866,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "WSDM",
+            "data": {
+                "count": 1521,
+                "cluster": "数据库/数据挖掘/内容检索"
+            }
+        },
+        {
+            "id": "计算机科学理论",
+            "data": {
+                "count": 10000,
+                "cluster": 5
+            }
+        },
+        {
+            "id": "ACTA",
+            "data": {
+                "count": 1595,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "Algorithmica",
+            "data": {
+                "count": 3176,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "APAL",
+            "data": {
+                "count": 2753,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "CADE-IJCAR",
+            "data": {
+                "count": 1112,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "CAV",
+            "data": {
+                "count": 1877,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "CCC",
+            "data": {
+                "count": 1156,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "Computational complexity",
+            "data": {
+                "count": 510,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "CONCUR",
+            "data": {
+                "count": 1303,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "CSL",
+            "data": {
+                "count": 1306,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "DAM",
+            "data": {
+                "count": 8923,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "DSAA",
+            "data": {
+                "count": 733,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "ESA",
+            "data": {
+                "count": 1857,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FAC",
+            "data": {
+                "count": 994,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FMCAD",
+            "data": {
+                "count": 688,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FMSD",
+            "data": {
+                "count": 670,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FOCS",
+            "data": {
+                "count": 3762,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FSTTCS",
+            "data": {
+                "count": 1546,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "FUIN",
+            "data": {
+                "count": 3783,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "HSCC",
+            "data": {
+                "count": 1087,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "IANDC",
+            "data": {
+                "count": 4228,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "ICALP",
+            "data": {
+                "count": 4119,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "ICTAC",
+            "data": {
+                "count": 486,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "Information Processing Letters",
+            "data": {
+                "count": 8112,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "INFORMS",
+            "data": {
+                "count": 1539,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "IPCO",
+            "data": {
+                "count": 743,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "ISAAC",
+            "data": {
+                "count": 2046,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "JCOMPLEXITY",
+            "data": {
+                "count": 1359,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "JCSS",
+            "data": {
+                "count": 3150,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "JGO",
+            "data": {
+                "count": 3003,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "JSC",
+            "data": {
+                "count": 2731,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "JSL",
+            "data": {
+                "count": 4394,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "LICS",
+            "data": {
+                "count": 1964,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "LISP",
+            "data": {
+                "count": 365,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "LMCS",
+            "data": {
+                "count": 1266,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "LOGCOM",
+            "data": {
+                "count": 1625,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "MFCS",
+            "data": {
+                "count": 2894,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "MSCS",
+            "data": {
+                "count": 1115,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "RTA",
+            "data": {
+                "count": 1095,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "SAT",
+            "data": {
+                "count": 759,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "SICOMP",
+            "data": {
+                "count": 3565,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "SIDMA",
+            "data": {
+                "count": 2844,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "SoCG",
+            "data": {
+                "count": 2046,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "SODA",
+            "data": {
+                "count": 3959,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "STACS",
+            "data": {
+                "count": 2109,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "STOC",
+            "data": {
+                "count": 3661,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "TALG",
+            "data": {
+                "count": 794,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "TCS",
+            "data": {
+                "count": 13814,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "Theory of Computing Systems",
+            "data": {
+                "count": 2178,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "TIT",
+            "data": {
+                "count": 16716,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "TOCL",
+            "data": {
+                "count": 621,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "TOMS",
+            "data": {
+                "count": 1670,
+                "cluster": "计算机科学理论"
+            }
+        },
+        {
+            "id": "计算机图形学与多媒体",
+            "data": {
+                "count": 10000,
+                "cluster": 6
+            }
+        },
+        {
+            "id": "3DV",
+            "data": {
+                "count": 1280,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ACM MM",
+            "data": {
+                "count": 7861,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ACM SVRST",
+            "data": {
+                "count": 1386,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ACM TMCCA",
+            "data": {
+                "count": 1029,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "C&G",
+            "data": {
+                "count": 3727,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CAD-Graphics",
+            "data": {
+                "count": 546,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CAD",
+            "data": {
+                "count": 3374,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CAGD",
+            "data": {
+                "count": 1907,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CASA",
+            "data": {
+                "count": 311,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CGF",
+            "data": {
+                "count": 4918,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CGI",
+            "data": {
+                "count": 3771,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "CGTA",
+            "data": {
+                "count": 1440,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "DCC",
+            "data": {
+                "count": 2575,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "DCG",
+            "data": {
+                "count": 2623,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "EG",
+            "data": {
+                "count": 2241,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "EGSR",
+            "data": {
+                "count": 543,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "EuroVis",
+            "data": {
+                "count": 1085,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "GM",
+            "data": {
+                "count": 1847,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "GMP",
+            "data": {
+                "count": 270,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ICASSP",
+            "data": {
+                "count": 45564,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ICIP",
+            "data": {
+                "count": 14577,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ICME",
+            "data": {
+                "count": 9676,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ICMR",
+            "data": {
+                "count": 1370,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "IEEE VIS",
+            "data": {
+                "count": 2396,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "IET-IPR",
+            "data": {
+                "count": 2037,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "INTERSPEECH",
+            "data": {
+                "count": 25698,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "ISMAR",
+            "data": {
+                "count": 1892,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "JVCIR",
+            "data": {
+                "count": 2969,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "MMM",
+            "data": {
+                "count": 1950,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "MS",
+            "data": {
+                "count": 1148,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "MTA",
+            "data": {
+                "count": 11672,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "PacificVis",
+            "data": {
+                "count": 624,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "PCM",
+            "data": {
+                "count": 2283,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "PG",
+            "data": {
+                "count": 580,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SCA",
+            "data": {
+                "count": 497,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SGP",
+            "data": {
+                "count": 148,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SI3D",
+            "data": {
+                "count": 679,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SIGGRAPH",
+            "data": {
+                "count": 11820,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "Signal Processing",
+            "data": {
+                "count": 8169,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SIIMS",
+            "data": {
+                "count": 942,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SMI",
+            "data": {
+                "count": 455,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "Speech Com",
+            "data": {
+                "count": 2687,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SPIC",
+            "data": {
+                "count": 2646,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SPL",
+            "data": {
+                "count": 6532,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "SPM",
+            "data": {
+                "count": 640,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TCSVT",
+            "data": {
+                "count": 4950,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TIP",
+            "data": {
+                "count": 8822,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TMM",
+            "data": {
+                "count": 3482,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TOG",
+            "data": {
+                "count": 4223,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TVC",
+            "data": {
+                "count": 2961,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "TVCG",
+            "data": {
+                "count": 4363,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "VR",
+            "data": {
+                "count": 3225,
+                "cluster": "计算机图形学与多媒体"
+            }
+        },
+        {
+            "id": "人工智能",
+            "data": {
+                "count": 10000,
+                "cluster": 7
+            }
+        },
+        {
+            "id": "AAAI",
+            "data": {
+                "count": 16144,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ACCV",
+            "data": {
+                "count": 2619,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ACL",
+            "data": {
+                "count": 9709,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ACML",
+            "data": {
+                "count": 580,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "AI",
+            "data": {
+                "count": 3214,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "AIM",
+            "data": {
+                "count": 1907,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "AISTATS",
+            "data": {
+                "count": 2913,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ALT",
+            "data": {
+                "count": 970,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Applied Intelligence",
+            "data": {
+                "count": 3068,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Artificial Life",
+            "data": {
+                "count": 695,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "AAMS",
+            "data": {
+                "count": 731,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "BMVC",
+            "data": {
+                "count": 3734,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "COLING",
+            "data": {
+                "count": 5818,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "COLT",
+            "data": {
+                "count": 1878,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Computational Intelligence",
+            "data": {
+                "count": 1130,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Computational Linguistics",
+            "data": {
+                "count": 958,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Computer Speech and Language",
+            "data": {
+                "count": 1187,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "CoNLL",
+            "data": {
+                "count": 1319,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Connection Science",
+            "data": {
+                "count": 550,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "CVIU",
+            "data": {
+                "count": 2587,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "CVPR",
+            "data": {
+                "count": 17462,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Data and Knowledge Engineering",
+            "data": {
+                "count": 1805,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "DSS",
+            "data": {
+                "count": 4270,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "EAAI",
+            "data": {
+                "count": 3306,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ECAI",
+            "data": {
+                "count": 5179,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ECCV",
+            "data": {
+                "count": 6614,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "EMNLP",
+            "data": {
+                "count": 6965,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ESWA",
+            "data": {
+                "count": 14618,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Evolutionary Computation",
+            "data": {
+                "count": 642,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Expert Systems",
+            "data": {
+                "count": 1135,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "FG",
+            "data": {
+                "count": 1680,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Fuzzy Sets and Systems",
+            "data": {
+                "count": 6446,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "GECCO",
+            "data": {
+                "count": 8756,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICANN",
+            "data": {
+                "count": 3850,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICAPS",
+            "data": {
+                "count": 1352,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICB",
+            "data": {
+                "count": 1222,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICCBR",
+            "data": {
+                "count": 951,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICCV",
+            "data": {
+                "count": 8673,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICDAR",
+            "data": {
+                "count": 4077,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICML",
+            "data": {
+                "count": 8050,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICONIP",
+            "data": {
+                "count": 6017,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICPR",
+            "data": {
+                "count": 10004,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICRA",
+            "data": {
+                "count": 21581,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ICTAI",
+            "data": {
+                "count": 4131,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IDA",
+            "data": {
+                "count": 1332,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IEEE Transactions on Cybernetics",
+            "data": {
+                "count": 5093,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJAR",
+            "data": {
+                "count": 2653,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJCAI",
+            "data": {
+                "count": 12387,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJCIA",
+            "data": {
+                "count": 518,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJCNN",
+            "data": {
+                "count": 11536,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJCV",
+            "data": {
+                "count": 2515,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJDAR",
+            "data": {
+                "count": 539,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJNS",
+            "data": {
+                "count": 1427,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJPRAI",
+            "data": {
+                "count": 2839,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJUFKS",
+            "data": {
+                "count": 1522,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "ILP",
+            "data": {
+                "count": 661,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "International Joint Conference on AAMS",
+            "data": {
+                "count": 7322,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IJIS",
+            "data": {
+                "count": 2429,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IROS",
+            "data": {
+                "count": 20660,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "IVC",
+            "data": {
+                "count": 3271,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "JAIR",
+            "data": {
+                "count": 1351,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "JETAI",
+            "data": {
+                "count": 1004,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "JMLR",
+            "data": {
+                "count": 2643,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Journal of Automated Reasoning",
+            "data": {
+                "count": 1189,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "KBS",
+            "data": {
+                "count": 6116,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "KR",
+            "data": {
+                "count": 1316,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "KSEM",
+            "data": {
+                "count": 982,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Machine Learning",
+            "data": {
+                "count": 1864,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Machine Translation",
+            "data": {
+                "count": 595,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Machine Vision and Applications",
+            "data": {
+                "count": 1708,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NAACL",
+            "data": {
+                "count": 4889,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Natural Computing",
+            "data": {
+                "count": 907,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NCA",
+            "data": {
+                "count": 6617,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Neural Computation",
+            "data": {
+                "count": 3224,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Neural Networks",
+            "data": {
+                "count": 4919,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NeurIPS",
+            "data": {
+                "count": 11840,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Neurocomputing",
+            "data": {
+                "count": 16785,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NLE",
+            "data": {
+                "count": 737,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NLPCC",
+            "data": {
+                "count": 777,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "NPL",
+            "data": {
+                "count": 2032,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "PAA",
+            "data": {
+                "count": 1242,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Pattern Recognition",
+            "data": {
+                "count": 9566,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "PPSN",
+            "data": {
+                "count": 1506,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "PRICAI",
+            "data": {
+                "count": 1659,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "PRL",
+            "data": {
+                "count": 7733,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "Soft Computing",
+            "data": {
+                "count": 6797,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TAC",
+            "data": {
+                "count": 541,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TALLIP",
+            "data": {
+                "count": 664,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TAP",
+            "data": {
+                "count": 441,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TASLP",
+            "data": {
+                "count": 4167,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TEC",
+            "data": {
+                "count": 1341,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TFS",
+            "data": {
+                "count": 3372,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TG",
+            "data": {
+                "count": 424,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TNNLS",
+            "data": {
+                "count": 6415,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TPAMI",
+            "data": {
+                "count": 6680,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "TSLP",
+            "data": {
+                "count": 84,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "UAI",
+            "data": {
+                "count": 2899,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "WI",
+            "data": {
+                "count": 442,
+                "cluster": "人工智能"
+            }
+        },
+        {
+            "id": "人机交互与普适计算",
+            "data": {
+                "count": 10000,
+                "cluster": 8
+            }
+        },
+        {
+            "id": "ACM CCSCWSC",
+            "data": {
+                "count": 2709,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "ASSETS",
+            "data": {
+                "count": 1567,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "AVI",
+            "data": {
+                "count": 1287,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "BIT",
+            "data": {
+                "count": 1779,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "CHI",
+            "data": {
+                "count": 19642,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "CSCW",
+            "data": {
+                "count": 651,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "CoopIS",
+            "data": {
+                "count": 3341,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "CSCWD",
+            "data": {
+                "count": 2922,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "DIS",
+            "data": {
+                "count": 1902,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "ECSCW",
+            "data": {
+                "count": 425,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "GI",
+            "data": {
+                "count": 782,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "GROUP",
+            "data": {
+                "count": 646,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "HCI",
+            "data": {
+                "count": 493,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "ICMI",
+            "data": {
+                "count": 2151,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IDC",
+            "data": {
+                "count": 1407,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IEEE THMS",
+            "data": {
+                "count": 1728,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IEEE World Haptics Conference",
+            "data": {
+                "count": 1864,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IJHCI",
+            "data": {
+                "count": 1655,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IJHCS",
+            "data": {
+                "count": 3253,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "INTERACT",
+            "data": {
+                "count": 3127,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "ITS",
+            "data": {
+                "count": 934,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IUI",
+            "data": {
+                "count": 2464,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "IWC",
+            "data": {
+                "count": 1243,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "MobileHCI",
+            "data": {
+                "count": 2022,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "MobiQuitous",
+            "data": {
+                "count": 1008,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "PERCOM",
+            "data": {
+                "count": 3087,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "PMC",
+            "data": {
+                "count": 1191,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "PUC",
+            "data": {
+                "count": 1717,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "TOCHI",
+            "data": {
+                "count": 713,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "UbiComp",
+            "data": {
+                "count": 3656,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "UIC",
+            "data": {
+                "count": 2379,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "UIST",
+            "data": {
+                "count": 2226,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "UMUAI",
+            "data": {
+                "count": 475,
+                "cluster": "人机交互与普适计算"
+            }
+        },
+        {
+            "id": "交叉/综合/新兴",
+            "data": {
+                "count": 10000,
+                "cluster": 9
+            }
+        },
+        {
+            "id": "AMIA",
+            "data": {
+                "count": 10246,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "APBC",
+            "data": {
+                "count": 234,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "BIBM",
+            "data": {
+                "count": 5054,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "Bioinformatics",
+            "data": {
+                "count": 16256,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "BMC Bioinformatics",
+            "data": {
+                "count": 10994,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "Briefings in Bioinformatics",
+            "data": {
+                "count": 2623,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "COSIT",
+            "data": {
+                "count": 483,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "Cybernetics and Systems",
+            "data": {
+                "count": 1054,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "EMSOFT",
+            "data": {
+                "count": 1025,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "FCS",
+            "data": {
+                "count": 1200,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "IEEE GRSL",
+            "data": {
+                "count": 6474,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "IEEE ICBG",
+            "data": {
+                "count": 5335,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "IEEE ICCC",
+            "data": {
+                "count": 1452,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "ISBRA",
+            "data": {
+                "count": 545,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "JAMIA",
+            "data": {
+                "count": 3804,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "JBHI",
+            "data": {
+                "count": 3434,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "JBI",
+            "data": {
+                "count": 2752,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "JCST",
+            "data": {
+                "count": 2543,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "Medical Image Analysis",
+            "data": {
+                "count": 2255,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "PLOS Computational Biology",
+            "data": {
+                "count": 8521,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "RECOMB",
+            "data": {
+                "count": 1034,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "RTSS",
+            "data": {
+                "count": 1439,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "Science China Information Sciences",
+            "data": {
+                "count": 4015,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "SMC",
+            "data": {
+                "count": 15295,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TASAE",
+            "data": {
+                "count": 1943,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TBD",
+            "data": {
+                "count": 373,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TCBB",
+            "data": {
+                "count": 2280,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TGARS",
+            "data": {
+                "count": 12827,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "The Computer Journal",
+            "data": {
+                "count": 5503,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TITS",
+            "data": {
+                "count": 4359,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TMI",
+            "data": {
+                "count": 5082,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "TR",
+            "data": {
+                "count": 3834,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "World Wide Web Journal",
+            "data": {
+                "count": 150,
+                "cluster": "交叉/综合/新兴"
+            }
+        },
+        {
+            "id": "WWW",
+            "data": {
+                "count": 8477,
+                "cluster": "交叉/综合/新兴"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "ASAP",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ASP-DAC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ASPLOS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ATS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CASES",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CCGRID",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CF",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CGO",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CLUSTER",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CODES+ISSS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "CCPE",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "DAC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "DATE",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "DC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ETS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "Euro-Par",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "EuroSys",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FAST",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FCCM",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FGCS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FPGA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FPL",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "FPT",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "GLSVLSI",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HiPC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HiPEAC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HotI",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HPCA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HPCC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "HPDC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICA3PP",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICCAD",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICCD",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICDCS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICPADS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICPP",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ICS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "IEEE Transactions on Cloud Computing",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "Integration",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "IPDPS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ISCA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ISCAS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ISLPED",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ISPA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ISPD",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ITC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "JETC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "JPDC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "JSA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "LISA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "MASCOTS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "MICPRO",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "MICRO",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "MSST",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "NOCS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "NPC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "PACT",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "PARCO",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "Performance",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "PODC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "PPoPP",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "RTAS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "RTS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "SC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "SIGMETRICS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "SOCC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "SPAA",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "SYSTOR",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TAAS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TACO",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TCAD",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TECS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TJSC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TOCS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TODAES",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TOS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TPDS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TRETS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "TVLSI",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "USENIX ATC",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "VEE",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "VTS",
+            "target": "计算机体系结构/并行与分布计算/存储系统"
+        },
+        {
+            "source": "ACM Transactions on Multimedia Computing, Communications and Applications",
+            "target": "计算机网络"
+        },
+        {
+            "source": "Ad hoc Networks",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ANCS",
+            "target": "计算机网络"
+        },
+        {
+            "source": "APNOMS",
+            "target": "计算机网络"
+        },
+        {
+            "source": "CN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "Computer Communications",
+            "target": "计算机网络"
+        },
+        {
+            "source": "CoNEXT",
+            "target": "计算机网络"
+        },
+        {
+            "source": "FORTE",
+            "target": "计算机网络"
+        },
+        {
+            "source": "GLOBECOM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "HotNets",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ICC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ICCCN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ICNP",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IET Communications",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IMC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "INFOCOM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IPCCC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IPSN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ISCC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "IWQoS",
+            "target": "计算机网络"
+        },
+        {
+            "source": "JNCA",
+            "target": "计算机网络"
+        },
+        {
+            "source": "JSAC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "LCN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MASS",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MobiCom",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MobiHoc",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MobiSys",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MONET",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MSN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "MSWiM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "Networking",
+            "target": "计算机网络"
+        },
+        {
+            "source": "Networks",
+            "target": "计算机网络"
+        },
+        {
+            "source": "NOSSDAV",
+            "target": "计算机网络"
+        },
+        {
+            "source": "NSDI",
+            "target": "计算机网络"
+        },
+        {
+            "source": "P2P",
+            "target": "计算机网络"
+        },
+        {
+            "source": "PPNA",
+            "target": "计算机网络"
+        },
+        {
+            "source": "SECON",
+            "target": "计算机网络"
+        },
+        {
+            "source": "SenSys",
+            "target": "计算机网络"
+        },
+        {
+            "source": "SIGCOMM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TCOM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TMC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TNSM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TOIT",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TON",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TOSN",
+            "target": "计算机网络"
+        },
+        {
+            "source": "TWC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "WASA",
+            "target": "计算机网络"
+        },
+        {
+            "source": "WCMC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "WCNC",
+            "target": "计算机网络"
+        },
+        {
+            "source": "Wireless Networks",
+            "target": "计算机网络"
+        },
+        {
+            "source": "WoWMoM",
+            "target": "计算机网络"
+        },
+        {
+            "source": "ACISP",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ACNS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ACSAC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "AsiaCCS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ASIACRYPT",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "CCS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "CHES",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "Computers & Security",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "CRYPTO",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "CSFW",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "CT-RSA",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "Designs, Codes and Cryptography",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "DFRWS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "DIMVA",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "DRM",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "DSN",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ESORICS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "EURASIP Journal on Information Security",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "EUROCRYPT",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "FC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "FSE",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ICDF2C",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ICICS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "IET Information Security",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "IH&MMSec",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "IJICS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "IJISP",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "IMCS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "ISC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "JCS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "JISA",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "Journal of Cryptology",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "NDSS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "NSPW",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "PAM",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "PETS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "PKC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "RAID",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "S&P",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SAC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SACMAT",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SCN",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SEC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SecureComm",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SOUPS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "SRDS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "TDSC",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "Theory of Cryptography Conference",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "TIFS",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "TrustCom",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "USENIX Security",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "WiSec",
+            "target": "网络与信息安全"
+        },
+        {
+            "source": "AEI",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "APLAS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "APSEC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ATVA",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "Automated Software Engineering",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "CAiSE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "CL",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "COMPSAC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "CP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "Data and Knowledge Engineering",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "DMKD",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "EASE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ECOOP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "EJIS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ESE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ESEM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ETAPS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "FM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "FSE-ESEC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "GeoInformatica",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "HotOS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICECCS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICFEM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICFP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICPC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICSE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICSME",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICSOC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICSR",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICSSP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICST",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICWE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICWS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "IEEE IREC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "IETS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "IJSEKE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "Information Sciences",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ICASE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "IPM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ISPASS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ISSRE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "ISSTA",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "IST",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "JFP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "JLAP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "JSEP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "JSS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "JWE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "LCTES",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "LOPSTR",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "Middleware",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "MoDELS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "MSR",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "OOPSLA",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "OSDI",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "PASTE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "PEPM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "PLDI",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "POPL",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "REFSQ",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "Requirements Engineering",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SANER",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SAS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SCAM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SCC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SCP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SEKE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SOCA",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SOSP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SoSyM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SPE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SPIN",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "SQJ",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "STTT",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "STVR",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TASE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TKDD",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TOOLS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TOPLAS",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TOSEM",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TPLP",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TSC",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TSE",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "TWEB",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "VMCAI",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "WICSA",
+            "target": "软件工程/系统软件/程序设计语言"
+        },
+        {
+            "source": "APWeb",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "CIDR",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "CIKM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "DASFAA",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "DEXA",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "DPD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ECIR",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ECML-PKDD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "EDBT",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ER",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ESWC",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "I&M",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ICDEIEEE",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ICDM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ICDT",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IJCIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IJGIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IJKM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IJSWIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "Information Processing Letters",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IJIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IR",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "IS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ISWC",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JASIST",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JCIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JDM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JIIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JSIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "JWS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "KAIS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "MDM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "PAKDD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "PODS",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SDM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SIGIR",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SIGKDD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SIGMOD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SSDBM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "SSTD",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "VLDB",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "WAIM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "WebDB",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "WISE",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "WSDM",
+            "target": "数据库/数据挖掘/内容检索"
+        },
+        {
+            "source": "ACTA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "Algorithmica",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "APAL",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "CADE-IJCAR",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "CAV",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "CCC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "Computational complexity",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "CONCUR",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "CSL",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "DAM",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "DSAA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "ESA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FAC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FMCAD",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FMSD",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FOCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FSTTCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "FUIN",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "HSCC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "IANDC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "ICALP",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "ICTAC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "Information Processing Letters",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "INFORMS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "IPCO",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "ISAAC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "JCOMPLEXITY",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "JCSS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "JGO",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "JSC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "JSL",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "LICS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "LISP",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "LMCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "LOGCOM",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "MFCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "MSCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "RTA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "SAT",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "SICOMP",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "SIDMA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "SoCG",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "SODA",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "STACS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "STOC",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "TALG",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "TCS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "Theory of Computing Systems",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "TIT",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "TOCL",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "TOMS",
+            "target": "计算机科学理论"
+        },
+        {
+            "source": "3DV",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ACM MM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ACM SVRST",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ACM TMCCA",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "C&G",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CAD-Graphics",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CAD",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CAGD",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CASA",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CGF",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CGI",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "CGTA",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "DCC",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "DCG",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "EG",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "EGSR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "EuroVis",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "GM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "GMP",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ICASSP",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ICIP",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ICME",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ICMR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "IEEE VIS",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "IET-IPR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "INTERSPEECH",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "ISMAR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "JVCIR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "MMM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "MS",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "MTA",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "PacificVis",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "PCM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "PG",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SCA",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SGP",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SI3D",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SIGGRAPH",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "Signal Processing",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SIIMS",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SMI",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "Speech Com",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SPIC",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SPL",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "SPM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TCSVT",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TIP",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TMM",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TOG",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TVC",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "TVCG",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "VR",
+            "target": "计算机图形学与多媒体"
+        },
+        {
+            "source": "AAAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "ACCV",
+            "target": "人工智能"
+        },
+        {
+            "source": "ACL",
+            "target": "人工智能"
+        },
+        {
+            "source": "ACML",
+            "target": "人工智能"
+        },
+        {
+            "source": "AI",
+            "target": "人工智能"
+        },
+        {
+            "source": "AIM",
+            "target": "人工智能"
+        },
+        {
+            "source": "AISTATS",
+            "target": "人工智能"
+        },
+        {
+            "source": "ALT",
+            "target": "人工智能"
+        },
+        {
+            "source": "Applied Intelligence",
+            "target": "人工智能"
+        },
+        {
+            "source": "Artificial Life",
+            "target": "人工智能"
+        },
+        {
+            "source": "AAMS",
+            "target": "人工智能"
+        },
+        {
+            "source": "BMVC",
+            "target": "人工智能"
+        },
+        {
+            "source": "COLING",
+            "target": "人工智能"
+        },
+        {
+            "source": "COLT",
+            "target": "人工智能"
+        },
+        {
+            "source": "Computational Intelligence",
+            "target": "人工智能"
+        },
+        {
+            "source": "Computational Linguistics",
+            "target": "人工智能"
+        },
+        {
+            "source": "Computer Speech and Language",
+            "target": "人工智能"
+        },
+        {
+            "source": "CoNLL",
+            "target": "人工智能"
+        },
+        {
+            "source": "Connection Science",
+            "target": "人工智能"
+        },
+        {
+            "source": "CVIU",
+            "target": "人工智能"
+        },
+        {
+            "source": "CVPR",
+            "target": "人工智能"
+        },
+        {
+            "source": "Data and Knowledge Engineering",
+            "target": "人工智能"
+        },
+        {
+            "source": "DSS",
+            "target": "人工智能"
+        },
+        {
+            "source": "EAAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "ECAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "ECCV",
+            "target": "人工智能"
+        },
+        {
+            "source": "EMNLP",
+            "target": "人工智能"
+        },
+        {
+            "source": "ESWA",
+            "target": "人工智能"
+        },
+        {
+            "source": "Evolutionary Computation",
+            "target": "人工智能"
+        },
+        {
+            "source": "Expert Systems",
+            "target": "人工智能"
+        },
+        {
+            "source": "FG",
+            "target": "人工智能"
+        },
+        {
+            "source": "Fuzzy Sets and Systems",
+            "target": "人工智能"
+        },
+        {
+            "source": "GECCO",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICANN",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICAPS",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICB",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICCBR",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICCV",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICDAR",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICML",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICONIP",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICPR",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICRA",
+            "target": "人工智能"
+        },
+        {
+            "source": "ICTAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "IDA",
+            "target": "人工智能"
+        },
+        {
+            "source": "IEEE Transactions on Cybernetics",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJAR",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJCAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJCIA",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJCNN",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJCV",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJDAR",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJNS",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJPRAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJUFKS",
+            "target": "人工智能"
+        },
+        {
+            "source": "ILP",
+            "target": "人工智能"
+        },
+        {
+            "source": "International Joint Conference on AAMS",
+            "target": "人工智能"
+        },
+        {
+            "source": "IJIS",
+            "target": "人工智能"
+        },
+        {
+            "source": "IROS",
+            "target": "人工智能"
+        },
+        {
+            "source": "IVC",
+            "target": "人工智能"
+        },
+        {
+            "source": "JAIR",
+            "target": "人工智能"
+        },
+        {
+            "source": "JETAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "JMLR",
+            "target": "人工智能"
+        },
+        {
+            "source": "Journal of Automated Reasoning",
+            "target": "人工智能"
+        },
+        {
+            "source": "KBS",
+            "target": "人工智能"
+        },
+        {
+            "source": "KR",
+            "target": "人工智能"
+        },
+        {
+            "source": "KSEM",
+            "target": "人工智能"
+        },
+        {
+            "source": "Machine Learning",
+            "target": "人工智能"
+        },
+        {
+            "source": "Machine Translation",
+            "target": "人工智能"
+        },
+        {
+            "source": "Machine Vision and Applications",
+            "target": "人工智能"
+        },
+        {
+            "source": "NAACL",
+            "target": "人工智能"
+        },
+        {
+            "source": "Natural Computing",
+            "target": "人工智能"
+        },
+        {
+            "source": "NCA",
+            "target": "人工智能"
+        },
+        {
+            "source": "Neural Computation",
+            "target": "人工智能"
+        },
+        {
+            "source": "Neural Networks",
+            "target": "人工智能"
+        },
+        {
+            "source": "NeurIPS",
+            "target": "人工智能"
+        },
+        {
+            "source": "Neurocomputing",
+            "target": "人工智能"
+        },
+        {
+            "source": "NLE",
+            "target": "人工智能"
+        },
+        {
+            "source": "NLPCC",
+            "target": "人工智能"
+        },
+        {
+            "source": "NPL",
+            "target": "人工智能"
+        },
+        {
+            "source": "PAA",
+            "target": "人工智能"
+        },
+        {
+            "source": "Pattern Recognition",
+            "target": "人工智能"
+        },
+        {
+            "source": "PPSN",
+            "target": "人工智能"
+        },
+        {
+            "source": "PRICAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "PRL",
+            "target": "人工智能"
+        },
+        {
+            "source": "Soft Computing",
+            "target": "人工智能"
+        },
+        {
+            "source": "TAC",
+            "target": "人工智能"
+        },
+        {
+            "source": "TALLIP",
+            "target": "人工智能"
+        },
+        {
+            "source": "TAP",
+            "target": "人工智能"
+        },
+        {
+            "source": "TASLP",
+            "target": "人工智能"
+        },
+        {
+            "source": "TEC",
+            "target": "人工智能"
+        },
+        {
+            "source": "TFS",
+            "target": "人工智能"
+        },
+        {
+            "source": "TG",
+            "target": "人工智能"
+        },
+        {
+            "source": "TNNLS",
+            "target": "人工智能"
+        },
+        {
+            "source": "TPAMI",
+            "target": "人工智能"
+        },
+        {
+            "source": "TSLP",
+            "target": "人工智能"
+        },
+        {
+            "source": "UAI",
+            "target": "人工智能"
+        },
+        {
+            "source": "WI",
+            "target": "人工智能"
+        },
+        {
+            "source": "ACM CCSCWSC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "ASSETS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "AVI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "BIT",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "CHI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "CSCW",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "CoopIS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "CSCWD",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "DIS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "ECSCW",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "GI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "GROUP",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "HCI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "ICMI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IDC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IEEE THMS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IEEE World Haptics Conference",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IJHCI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IJHCS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "INTERACT",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "ITS",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IUI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "IWC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "MobileHCI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "MobiQuitous",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "PERCOM",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "PMC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "PUC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "TOCHI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "UbiComp",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "UIC",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "UIST",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "UMUAI",
+            "target": "人机交互与普适计算"
+        },
+        {
+            "source": "AMIA",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "APBC",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "BIBM",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "Bioinformatics",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "BMC Bioinformatics",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "Briefings in Bioinformatics",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "COSIT",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "Cybernetics and Systems",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "EMSOFT",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "FCS",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "IEEE GRSL",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "IEEE ICBG",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "IEEE ICCC",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "ISBRA",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "JAMIA",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "JBHI",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "JBI",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "JCST",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "Medical Image Analysis",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "PLOS Computational Biology",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "RECOMB",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "RTSS",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "Science China Information Sciences",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "SMC",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TASAE",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TBD",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TCBB",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TGARS",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "The Computer Journal",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TITS",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TMI",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "TR",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "World Wide Web Journal",
+            "target": "交叉/综合/新兴"
+        },
+        {
+            "source": "WWW",
+            "target": "交叉/综合/新兴"
+        }
+    ]
+}

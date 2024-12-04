@@ -1,0 +1,1414 @@
+[
+    {
+        "value": "计算机体系结构/并行与分布计算/存储系统",
+        "label": "计算机体系结构/并行与分布计算/存储系统",
+        "children": [
+            {
+                "value": "ASAP",
+                "label": "ASAP"
+            },
+            {
+                "value": "ASP-DAC",
+                "label": "ASP-DAC"
+            },
+            {
+                "value": "ASPLOS",
+                "label": "ASPLOS"
+            },
+            {
+                "value": "ATS",
+                "label": "ATS"
+            },
+            {
+                "value": "CASES",
+                "label": "CASES"
+            },
+            {
+                "value": "CCGRID",
+                "label": "CCGRID"
+            },
+            {
+                "value": "CF",
+                "label": "CF"
+            },
+            {
+                "value": "CGO",
+                "label": "CGO"
+            },
+            {
+                "value": "CLUSTER",
+                "label": "CLUSTER"
+            },
+            {
+                "value": "CODES+ISSS",
+                "label": "CODES+ISSS"
+            },
+            {
+                "value": "DAC",
+                "label": "DAC"
+            },
+            {
+                "value": "DATE",
+                "label": "DATE"
+            },
+            {
+                "value": "ETS",
+                "label": "ETS"
+            },
+            {
+                "value": "Euro-Par",
+                "label": "Euro-Par"
+            },
+            {
+                "value": "EuroSys",
+                "label": "EuroSys"
+            },
+            {
+                "value": "FAST",
+                "label": "FAST"
+            },
+            {
+                "value": "FCCM",
+                "label": "FCCM"
+            },
+            {
+                "value": "FPGA",
+                "label": "FPGA"
+            },
+            {
+                "value": "FPL",
+                "label": "FPL"
+            },
+            {
+                "value": "FPT",
+                "label": "FPT"
+            },
+            {
+                "value": "GLSVLSI",
+                "label": "GLSVLSI"
+            },
+            {
+                "value": "HiPC",
+                "label": "HiPC"
+            },
+            {
+                "value": "HiPEAC",
+                "label": "HiPEAC"
+            },
+            {
+                "value": "HotI",
+                "label": "HotI"
+            },
+            {
+                "value": "HPCA",
+                "label": "HPCA"
+            },
+            {
+                "value": "HPCC",
+                "label": "HPCC"
+            },
+            {
+                "value": "HPDC",
+                "label": "HPDC"
+            },
+            {
+                "value": "ICA3PP",
+                "label": "ICA3PP"
+            },
+            {
+                "value": "ICCAD",
+                "label": "ICCAD"
+            },
+            {
+                "value": "ICCD",
+                "label": "ICCD"
+            },
+            {
+                "value": "ICDCS",
+                "label": "ICDCS"
+            },
+            {
+                "value": "ICPADS",
+                "label": "ICPADS"
+            },
+            {
+                "value": "ICPP",
+                "label": "ICPP"
+            },
+            {
+                "value": "ICS",
+                "label": "ICS"
+            },
+            {
+                "value": "IPDPS",
+                "label": "IPDPS"
+            },
+            {
+                "value": "ISCA",
+                "label": "ISCA"
+            },
+            {
+                "value": "ISCAS",
+                "label": "ISCAS"
+            },
+            {
+                "value": "ISLPED",
+                "label": "ISLPED"
+            },
+            {
+                "value": "ISPA",
+                "label": "ISPA"
+            },
+            {
+                "value": "ISPD",
+                "label": "ISPD"
+            },
+            {
+                "value": "ITC",
+                "label": "ITC"
+            },
+            {
+                "value": "LISA",
+                "label": "LISA"
+            },
+            {
+                "value": "MASCOTS",
+                "label": "MASCOTS"
+            },
+            {
+                "value": "MSST",
+                "label": "MSST"
+            },
+            {
+                "value": "NOCS",
+                "label": "NOCS"
+            },
+            {
+                "value": "NPC",
+                "label": "NPC"
+            },
+            {
+                "value": "PACT",
+                "label": "PACT"
+            },
+            {
+                "value": "Performance",
+                "label": "Performance"
+            },
+            {
+                "value": "PODC",
+                "label": "PODC"
+            },
+            {
+                "value": "PPoPP",
+                "label": "PPoPP"
+            },
+            {
+                "value": "RTAS",
+                "label": "RTAS"
+            },
+            {
+                "value": "SC",
+                "label": "SC"
+            },
+            {
+                "value": "SIGMETRICS",
+                "label": "SIGMETRICS"
+            },
+            {
+                "value": "SOCC",
+                "label": "SOCC"
+            },
+            {
+                "value": "SPAA",
+                "label": "SPAA"
+            },
+            {
+                "value": "SYSTOR",
+                "label": "SYSTOR"
+            },
+            {
+                "value": "USENIX ATC",
+                "label": "USENIX ATC"
+            },
+            {
+                "value": "VEE",
+                "label": "VEE"
+            },
+            {
+                "value": "VTS",
+                "label": "VTS"
+            }
+        ]
+    },
+    {
+        "value": "计算机网络",
+        "label": "计算机网络",
+        "children": [
+            {
+                "value": "ANCS",
+                "label": "ANCS"
+            },
+            {
+                "value": "APNOMS",
+                "label": "APNOMS"
+            },
+            {
+                "value": "CoNEXT",
+                "label": "CoNEXT"
+            },
+            {
+                "value": "FORTE",
+                "label": "FORTE"
+            },
+            {
+                "value": "GLOBECOM",
+                "label": "GLOBECOM"
+            },
+            {
+                "value": "HotNets",
+                "label": "HotNets"
+            },
+            {
+                "value": "ICC",
+                "label": "ICC"
+            },
+            {
+                "value": "ICCCN",
+                "label": "ICCCN"
+            },
+            {
+                "value": "ICNP",
+                "label": "ICNP"
+            },
+            {
+                "value": "IM",
+                "label": "IM"
+            },
+            {
+                "value": "IMC",
+                "label": "IMC"
+            },
+            {
+                "value": "INFOCOM",
+                "label": "INFOCOM"
+            },
+            {
+                "value": "IPCCC",
+                "label": "IPCCC"
+            },
+            {
+                "value": "IPSN",
+                "label": "IPSN"
+            },
+            {
+                "value": "ISCC",
+                "label": "ISCC"
+            },
+            {
+                "value": "IWQoS",
+                "label": "IWQoS"
+            },
+            {
+                "value": "LCN",
+                "label": "LCN"
+            },
+            {
+                "value": "MASS",
+                "label": "MASS"
+            },
+            {
+                "value": "MobiCom",
+                "label": "MobiCom"
+            },
+            {
+                "value": "MobiHoc",
+                "label": "MobiHoc"
+            },
+            {
+                "value": "MobiSys",
+                "label": "MobiSys"
+            },
+            {
+                "value": "MSN",
+                "label": "MSN"
+            },
+            {
+                "value": "MSWiM",
+                "label": "MSWiM"
+            },
+            {
+                "value": "Networking",
+                "label": "Networking"
+            },
+            {
+                "value": "NOSSDAV",
+                "label": "NOSSDAV"
+            },
+            {
+                "value": "NSDI",
+                "label": "NSDI"
+            },
+            {
+                "value": "P2P",
+                "label": "P2P"
+            },
+            {
+                "value": "SECON",
+                "label": "SECON"
+            },
+            {
+                "value": "SenSys",
+                "label": "SenSys"
+            },
+            {
+                "value": "SIGCOMM",
+                "label": "SIGCOMM"
+            },
+            {
+                "value": "WASA",
+                "label": "WASA"
+            },
+            {
+                "value": "WCNC",
+                "label": "WCNC"
+            },
+            {
+                "value": "WoWMoM",
+                "label": "WoWMoM"
+            }
+        ]
+    },
+    {
+        "value": "网络与信息安全",
+        "label": "网络与信息安全",
+        "children": [
+            {
+                "value": "ACISP",
+                "label": "ACISP"
+            },
+            {
+                "value": "ACNS",
+                "label": "ACNS"
+            },
+            {
+                "value": "ACSAC",
+                "label": "ACSAC"
+            },
+            {
+                "value": "AsiaCCS",
+                "label": "AsiaCCS"
+            },
+            {
+                "value": "ASIACRYPT",
+                "label": "ASIACRYPT"
+            },
+            {
+                "value": "CCS",
+                "label": "CCS"
+            },
+            {
+                "value": "CHES",
+                "label": "CHES"
+            },
+            {
+                "value": "CRYPTO",
+                "label": "CRYPTO"
+            },
+            {
+                "value": "CSFW",
+                "label": "CSFW"
+            },
+            {
+                "value": "CT-RSA",
+                "label": "CT-RSA"
+            },
+            {
+                "value": "DFRWS",
+                "label": "DFRWS"
+            },
+            {
+                "value": "DIMVA",
+                "label": "DIMVA"
+            },
+            {
+                "value": "DRM",
+                "label": "DRM"
+            },
+            {
+                "value": "DSN",
+                "label": "DSN"
+            },
+            {
+                "value": "ESORICS",
+                "label": "ESORICS"
+            },
+            {
+                "value": "EUROCRYPT",
+                "label": "EUROCRYPT"
+            },
+            {
+                "value": "FC",
+                "label": "FC"
+            },
+            {
+                "value": "FSE",
+                "label": "FSE"
+            },
+            {
+                "value": "ICDF2C",
+                "label": "ICDF2C"
+            },
+            {
+                "value": "ICICS",
+                "label": "ICICS"
+            },
+            {
+                "value": "IH&MMSec",
+                "label": "IH&MMSec"
+            },
+            {
+                "value": "ISC",
+                "label": "ISC"
+            },
+            {
+                "value": "NDSS",
+                "label": "NDSS"
+            },
+            {
+                "value": "NSPW",
+                "label": "NSPW"
+            },
+            {
+                "value": "PAM",
+                "label": "PAM"
+            },
+            {
+                "value": "PETS",
+                "label": "PETS"
+            },
+            {
+                "value": "PKC",
+                "label": "PKC"
+            },
+            {
+                "value": "RAID",
+                "label": "RAID"
+            },
+            {
+                "value": "S&P",
+                "label": "S&P"
+            },
+            {
+                "value": "SAC",
+                "label": "SAC"
+            },
+            {
+                "value": "SACMAT",
+                "label": "SACMAT"
+            },
+            {
+                "value": "SEC",
+                "label": "SEC"
+            },
+            {
+                "value": "SecureComm",
+                "label": "SecureComm"
+            },
+            {
+                "value": "SOUPS",
+                "label": "SOUPS"
+            },
+            {
+                "value": "SRDS",
+                "label": "SRDS"
+            },
+            {
+                "value": "Theory of Cryptography Conference",
+                "label": "Theory of Cryptography Conference"
+            },
+            {
+                "value": "TrustCom",
+                "label": "TrustCom"
+            },
+            {
+                "value": "USENIX Security",
+                "label": "USENIX Security"
+            },
+            {
+                "value": "WiSec",
+                "label": "WiSec"
+            }
+        ]
+    },
+    {
+        "value": "软件工程/系统软件/程序设计语言",
+        "label": "软件工程/系统软件/程序设计语言",
+        "children": [
+            {
+                "value": "APLAS",
+                "label": "APLAS"
+            },
+            {
+                "value": "APSEC",
+                "label": "APSEC"
+            },
+            {
+                "value": "ATVA",
+                "label": "ATVA"
+            },
+            {
+                "value": "CAiSE",
+                "label": "CAiSE"
+            },
+            {
+                "value": "COMPSAC",
+                "label": "COMPSAC"
+            },
+            {
+                "value": "CP",
+                "label": "CP"
+            },
+            {
+                "value": "EASE",
+                "label": "EASE"
+            },
+            {
+                "value": "ECOOP",
+                "label": "ECOOP"
+            },
+            {
+                "value": "ESEM",
+                "label": "ESEM"
+            },
+            {
+                "value": "ETAPS",
+                "label": "ETAPS"
+            },
+            {
+                "value": "FM",
+                "label": "FM"
+            },
+            {
+                "value": "FSE-ESEC",
+                "label": "FSE-ESEC"
+            },
+            {
+                "value": "HotOS",
+                "label": "HotOS"
+            },
+            {
+                "value": "ICECCS",
+                "label": "ICECCS"
+            },
+            {
+                "value": "ICFEM",
+                "label": "ICFEM"
+            },
+            {
+                "value": "ICFP",
+                "label": "ICFP"
+            },
+            {
+                "value": "ICPC",
+                "label": "ICPC"
+            },
+            {
+                "value": "ICSE",
+                "label": "ICSE"
+            },
+            {
+                "value": "ICSME",
+                "label": "ICSME"
+            },
+            {
+                "value": "ICSOC",
+                "label": "ICSOC"
+            },
+            {
+                "value": "ICSR",
+                "label": "ICSR"
+            },
+            {
+                "value": "ICSSP",
+                "label": "ICSSP"
+            },
+            {
+                "value": "ICST",
+                "label": "ICST"
+            },
+            {
+                "value": "ICWE",
+                "label": "ICWE"
+            },
+            {
+                "value": "ICWS",
+                "label": "ICWS"
+            },
+            {
+                "value": "IEEE International Requirement Engineering Conference",
+                "label": "IEEE International Requirement Engineering Conference"
+            },
+            {
+                "value": "International Conference on Automated Software Engineering",
+                "label": "International Conference on Automated Software Engineering"
+            },
+            {
+                "value": "ISPASS",
+                "label": "ISPASS"
+            },
+            {
+                "value": "ISSRE",
+                "label": "ISSRE"
+            },
+            {
+                "value": "ISSTA",
+                "label": "ISSTA"
+            },
+            {
+                "value": "LCTES",
+                "label": "LCTES"
+            },
+            {
+                "value": "LOPSTR",
+                "label": "LOPSTR"
+            },
+            {
+                "value": "Middleware",
+                "label": "Middleware"
+            },
+            {
+                "value": "MoDELS",
+                "label": "MoDELS"
+            },
+            {
+                "value": "MSR",
+                "label": "MSR"
+            },
+            {
+                "value": "OOPSLA",
+                "label": "OOPSLA"
+            },
+            {
+                "value": "OSDI",
+                "label": "OSDI"
+            },
+            {
+                "value": "PASTE",
+                "label": "PASTE"
+            },
+            {
+                "value": "PEPM",
+                "label": "PEPM"
+            },
+            {
+                "value": "PLDI",
+                "label": "PLDI"
+            },
+            {
+                "value": "POPL",
+                "label": "POPL"
+            },
+            {
+                "value": "REFSQ",
+                "label": "REFSQ"
+            },
+            {
+                "value": "SANER",
+                "label": "SANER"
+            },
+            {
+                "value": "SAS",
+                "label": "SAS"
+            },
+            {
+                "value": "SCAM",
+                "label": "SCAM"
+            },
+            {
+                "value": "SCC",
+                "label": "SCC"
+            },
+            {
+                "value": "SEKE",
+                "label": "SEKE"
+            },
+            {
+                "value": "SOSP",
+                "label": "SOSP"
+            },
+            {
+                "value": "SPIN",
+                "label": "SPIN"
+            },
+            {
+                "value": "TASE",
+                "label": "TASE"
+            },
+            {
+                "value": "TOOLS",
+                "label": "TOOLS"
+            },
+            {
+                "value": "VMCAI",
+                "label": "VMCAI"
+            },
+            {
+                "value": "WICSA",
+                "label": "WICSA"
+            }
+        ]
+    },
+    {
+        "value": "数据库/数据挖掘/内容检索",
+        "label": "数据库/数据挖掘/内容检索",
+        "children": [
+            {
+                "value": "APWeb",
+                "label": "APWeb"
+            },
+            {
+                "value": "CIDR",
+                "label": "CIDR"
+            },
+            {
+                "value": "CIKM",
+                "label": "CIKM"
+            },
+            {
+                "value": "DASFAA",
+                "label": "DASFAA"
+            },
+            {
+                "value": "DEXA",
+                "label": "DEXA"
+            },
+            {
+                "value": "ECIR",
+                "label": "ECIR"
+            },
+            {
+                "value": "ECML-PKDD",
+                "label": "ECML-PKDD"
+            },
+            {
+                "value": "EDBT",
+                "label": "EDBT"
+            },
+            {
+                "value": "ER",
+                "label": "ER"
+            },
+            {
+                "value": "ESWC",
+                "label": "ESWC"
+            },
+            {
+                "value": "ICDEIEEE",
+                "label": "ICDEIEEE"
+            },
+            {
+                "value": "ICDM",
+                "label": "ICDM"
+            },
+            {
+                "value": "ICDT",
+                "label": "ICDT"
+            },
+            {
+                "value": "ISWC",
+                "label": "ISWC"
+            },
+            {
+                "value": "MDM",
+                "label": "MDM"
+            },
+            {
+                "value": "PAKDD",
+                "label": "PAKDD"
+            },
+            {
+                "value": "PODS",
+                "label": "PODS"
+            },
+            {
+                "value": "SDM",
+                "label": "SDM"
+            },
+            {
+                "value": "SIGIR",
+                "label": "SIGIR"
+            },
+            {
+                "value": "SIGKDD",
+                "label": "SIGKDD"
+            },
+            {
+                "value": "SIGMOD",
+                "label": "SIGMOD"
+            },
+            {
+                "value": "SSDBM",
+                "label": "SSDBM"
+            },
+            {
+                "value": "SSTD",
+                "label": "SSTD"
+            },
+            {
+                "value": "VLDB",
+                "label": "VLDB"
+            },
+            {
+                "value": "WAIM",
+                "label": "WAIM"
+            },
+            {
+                "value": "WebDB",
+                "label": "WebDB"
+            },
+            {
+                "value": "WISE",
+                "label": "WISE"
+            },
+            {
+                "value": "WSDM",
+                "label": "WSDM"
+            }
+        ]
+    },
+    {
+        "value": "计算机科学理论",
+        "label": "计算机科学理论",
+        "children": [
+            {
+                "value": "CADE-IJCAR",
+                "label": "CADE-IJCAR"
+            },
+            {
+                "value": "CAV",
+                "label": "CAV"
+            },
+            {
+                "value": "CCC",
+                "label": "CCC"
+            },
+            {
+                "value": "CONCUR",
+                "label": "CONCUR"
+            },
+            {
+                "value": "CSL",
+                "label": "CSL"
+            },
+            {
+                "value": "DSAA",
+                "label": "DSAA"
+            },
+            {
+                "value": "ESA",
+                "label": "ESA"
+            },
+            {
+                "value": "FMCAD",
+                "label": "FMCAD"
+            },
+            {
+                "value": "FOCS",
+                "label": "FOCS"
+            },
+            {
+                "value": "FSTTCS",
+                "label": "FSTTCS"
+            },
+            {
+                "value": "HSCC",
+                "label": "HSCC"
+            },
+            {
+                "value": "ICALP",
+                "label": "ICALP"
+            },
+            {
+                "value": "ICTAC",
+                "label": "ICTAC"
+            },
+            {
+                "value": "IPCO",
+                "label": "IPCO"
+            },
+            {
+                "value": "ISAAC",
+                "label": "ISAAC"
+            },
+            {
+                "value": "LICS",
+                "label": "LICS"
+            },
+            {
+                "value": "MFCS",
+                "label": "MFCS"
+            },
+            {
+                "value": "RTA",
+                "label": "RTA"
+            },
+            {
+                "value": "SAT",
+                "label": "SAT"
+            },
+            {
+                "value": "SoCG",
+                "label": "SoCG"
+            },
+            {
+                "value": "SODA",
+                "label": "SODA"
+            },
+            {
+                "value": "STACS",
+                "label": "STACS"
+            },
+            {
+                "value": "STOC",
+                "label": "STOC"
+            }
+        ]
+    },
+    {
+        "value": "计算机图形学与多媒体",
+        "label": "计算机图形学与多媒体",
+        "children": [
+            {
+                "value": "3DV",
+                "label": "3DV"
+            },
+            {
+                "value": "ACM MM",
+                "label": "ACM MM"
+            },
+            {
+                "value": "ACM Symposium on Virtual Reality Software and Technology",
+                "label": "ACM Symposium on Virtual Reality Software and Technology"
+            },
+            {
+                "value": "CAD-Graphics",
+                "label": "CAD-Graphics"
+            },
+            {
+                "value": "CASA",
+                "label": "CASA"
+            },
+            {
+                "value": "CGI",
+                "label": "CGI"
+            },
+            {
+                "value": "DCC",
+                "label": "DCC"
+            },
+            {
+                "value": "EG",
+                "label": "EG"
+            },
+            {
+                "value": "EGSR",
+                "label": "EGSR"
+            },
+            {
+                "value": "EuroVis",
+                "label": "EuroVis"
+            },
+            {
+                "value": "GMP",
+                "label": "GMP"
+            },
+            {
+                "value": "ICASSP",
+                "label": "ICASSP"
+            },
+            {
+                "value": "ICIP",
+                "label": "ICIP"
+            },
+            {
+                "value": "ICME",
+                "label": "ICME"
+            },
+            {
+                "value": "ICMR",
+                "label": "ICMR"
+            },
+            {
+                "value": "IEEE VIS",
+                "label": "IEEE VIS"
+            },
+            {
+                "value": "INTERSPEECH",
+                "label": "INTERSPEECH"
+            },
+            {
+                "value": "ISMAR",
+                "label": "ISMAR"
+            },
+            {
+                "value": "MMM",
+                "label": "MMM"
+            },
+            {
+                "value": "PacificVis",
+                "label": "PacificVis"
+            },
+            {
+                "value": "PCM",
+                "label": "PCM"
+            },
+            {
+                "value": "PG",
+                "label": "PG"
+            },
+            {
+                "value": "SCA",
+                "label": "SCA"
+            },
+            {
+                "value": "SGP",
+                "label": "SGP"
+            },
+            {
+                "value": "SI3D",
+                "label": "SI3D"
+            },
+            {
+                "value": "SIGGRAPH",
+                "label": "SIGGRAPH"
+            },
+            {
+                "value": "SMI",
+                "label": "SMI"
+            },
+            {
+                "value": "SPM",
+                "label": "SPM"
+            },
+            {
+                "value": "VR",
+                "label": "VR"
+            }
+        ]
+    },
+    {
+        "value": "人工智能",
+        "label": "人工智能",
+        "children": [
+            {
+                "value": "AAAI",
+                "label": "AAAI"
+            },
+            {
+                "value": "ACCV",
+                "label": "ACCV"
+            },
+            {
+                "value": "ACL",
+                "label": "ACL"
+            },
+            {
+                "value": "ACML",
+                "label": "ACML"
+            },
+            {
+                "value": "AISTATS",
+                "label": "AISTATS"
+            },
+            {
+                "value": "ALT",
+                "label": "ALT"
+            },
+            {
+                "value": "BMVC",
+                "label": "BMVC"
+            },
+            {
+                "value": "COLING",
+                "label": "COLING"
+            },
+            {
+                "value": "COLT",
+                "label": "COLT"
+            },
+            {
+                "value": "CoNLL",
+                "label": "CoNLL"
+            },
+            {
+                "value": "CVPR",
+                "label": "CVPR"
+            },
+            {
+                "value": "ECAI",
+                "label": "ECAI"
+            },
+            {
+                "value": "ECCV",
+                "label": "ECCV"
+            },
+            {
+                "value": "EMNLP",
+                "label": "EMNLP"
+            },
+            {
+                "value": "FG",
+                "label": "FG"
+            },
+            {
+                "value": "GECCO",
+                "label": "GECCO"
+            },
+            {
+                "value": "ICANN",
+                "label": "ICANN"
+            },
+            {
+                "value": "ICAPS",
+                "label": "ICAPS"
+            },
+            {
+                "value": "ICB",
+                "label": "ICB"
+            },
+            {
+                "value": "ICCBR",
+                "label": "ICCBR"
+            },
+            {
+                "value": "ICCV",
+                "label": "ICCV"
+            },
+            {
+                "value": "ICDAR",
+                "label": "ICDAR"
+            },
+            {
+                "value": "ICML",
+                "label": "ICML"
+            },
+            {
+                "value": "ICONIP",
+                "label": "ICONIP"
+            },
+            {
+                "value": "ICPR",
+                "label": "ICPR"
+            },
+            {
+                "value": "ICRA",
+                "label": "ICRA"
+            },
+            {
+                "value": "ICTAI",
+                "label": "ICTAI"
+            },
+            {
+                "value": "IJCAI",
+                "label": "IJCAI"
+            },
+            {
+                "value": "IJCNN",
+                "label": "IJCNN"
+            },
+            {
+                "value": "ILP",
+                "label": "ILP"
+            },
+            {
+                "value": "International Joint Conference on Autonomous Agents and Multi-agent Systems",
+                "label": "International Joint Conference on Autonomous Agents and Multi-agent Systems"
+            },
+            {
+                "value": "IROS",
+                "label": "IROS"
+            },
+            {
+                "value": "KR",
+                "label": "KR"
+            },
+            {
+                "value": "KSEM",
+                "label": "KSEM"
+            },
+            {
+                "value": "NAACL",
+                "label": "NAACL"
+            },
+            {
+                "value": "NeurIPS",
+                "label": "NeurIPS"
+            },
+            {
+                "value": "NLPCC",
+                "label": "NLPCC"
+            },
+            {
+                "value": "PPSN",
+                "label": "PPSN"
+            },
+            {
+                "value": "PRICAI",
+                "label": "PRICAI"
+            },
+            {
+                "value": "UAI",
+                "label": "UAI"
+            }
+        ]
+    },
+    {
+        "value": "人机交互与普适计算",
+        "label": "人机交互与普适计算",
+        "children": [
+            {
+                "value": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+                "label": "ACM Conference on Computer Supported Cooperative Work and Social Computing"
+            },
+            {
+                "value": "ASSETS",
+                "label": "ASSETS"
+            },
+            {
+                "value": "AVI",
+                "label": "AVI"
+            },
+            {
+                "value": "CHI",
+                "label": "CHI"
+            },
+            {
+                "value": "CoopIS",
+                "label": "CoopIS"
+            },
+            {
+                "value": "CSCWD",
+                "label": "CSCWD"
+            },
+            {
+                "value": "DIS",
+                "label": "DIS"
+            },
+            {
+                "value": "ECSCW",
+                "label": "ECSCW"
+            },
+            {
+                "value": "GI",
+                "label": "GI"
+            },
+            {
+                "value": "GROUP",
+                "label": "GROUP"
+            },
+            {
+                "value": "ICMI",
+                "label": "ICMI"
+            },
+            {
+                "value": "IDC",
+                "label": "IDC"
+            },
+            {
+                "value": "IEEE World Haptics Conference",
+                "label": "IEEE World Haptics Conference"
+            },
+            {
+                "value": "INTERACT",
+                "label": "INTERACT"
+            },
+            {
+                "value": "ITS",
+                "label": "ITS"
+            },
+            {
+                "value": "IUI",
+                "label": "IUI"
+            },
+            {
+                "value": "MobileHCI",
+                "label": "MobileHCI"
+            },
+            {
+                "value": "MobiQuitous",
+                "label": "MobiQuitous"
+            },
+            {
+                "value": "PERCOM",
+                "label": "PERCOM"
+            },
+            {
+                "value": "UbiComp",
+                "label": "UbiComp"
+            },
+            {
+                "value": "UIC",
+                "label": "UIC"
+            },
+            {
+                "value": "UIST",
+                "label": "UIST"
+            }
+        ]
+    },
+    {
+        "value": "交叉/综合/新兴",
+        "label": "交叉/综合/新兴",
+        "children": [
+            {
+                "value": "AMIA",
+                "label": "AMIA"
+            },
+            {
+                "value": "APBC",
+                "label": "APBC"
+            },
+            {
+                "value": "BIBM",
+                "label": "BIBM"
+            },
+            {
+                "value": "COSIT",
+                "label": "COSIT"
+            },
+            {
+                "value": "EMSOFT",
+                "label": "EMSOFT"
+            },
+            {
+                "value": "IEEE International Conference on Big Data",
+                "label": "IEEE International Conference on Big Data"
+            },
+            {
+                "value": "IEEE International Conference on Cloud Computing",
+                "label": "IEEE International Conference on Cloud Computing"
+            },
+            {
+                "value": "ISBRA",
+                "label": "ISBRA"
+            },
+            {
+                "value": "RECOMB",
+                "label": "RECOMB"
+            },
+            {
+                "value": "RTSS",
+                "label": "RTSS"
+            },
+            {
+                "value": "SMC",
+                "label": "SMC"
+            },
+            {
+                "value": "WWW",
+                "label": "WWW"
+            }
+        ]
+    }
+]
