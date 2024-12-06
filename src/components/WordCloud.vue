@@ -26,7 +26,7 @@ watch(() => paperListStore.WordCloudUrl,
 
   .word-cloud {
     width: 96%;
-    height: 84%;
+    height: 86%;
     border-radius: 0.5vw;
     margin-left: 2%;
   }

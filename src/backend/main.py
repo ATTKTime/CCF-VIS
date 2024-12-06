@@ -26,8 +26,12 @@ async def getGroupData(request: Request):  # 可以是
     # 从前端接收一个item变量，该变量即为分组的依据
     requestData = await request.json()
     item = requestData.get("item")
-    group_data = handle.ccf_data.groupby([item, 'type']).size().reset_index(name="count").to_dict(orient="records")
+    if item == "category":
+        group_data = handle.ccf_data.groupby([item, 'type']).size().reset_index(name="count").to_dict(orient="records")
+    else:
+        group_data = handle.ccf_data.groupby([item, 'type','category']).size().reset_index(name="count").to_dict(orient="records")
     return {"data": group_data}
+
 
 
 @app.get("/getPapersInfoList")

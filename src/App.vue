@@ -8,22 +8,22 @@
         <div class="main">
           <div class="warp1 content">
             <div class="PaperList">
-              <PaperList/>
+              <YearList />
             </div>
             <div class="WordCloud">
-              <WordCloud/>
+              <WordCloud />
             </div>
           </div>
           <div class="warp2 content">
             <div class="Knowledge">
-              <Knowledge/>
+              <Knowledge />
             </div>
             <div class="PaperYearList">
-              <YearList/>
+              <PaperList />
             </div>
           </div>
           <div class="warp3 content">
-            <LeftCards/>
+            <LeftCards />
           </div>
         </div>
       </el-main>
@@ -32,11 +32,11 @@
 </template>
 
 <script setup>
-import PaperList from './components/PaperList.vue'
-import LeftCards from './components/LeftCards.vue'
-import YearList from './components/YearList.vue'
-import WordCloud from './components/WordCloud.vue'
-import Knowledge from './components/Knowledge.vue'
+import PaperList from "./components/PaperList.vue";
+import LeftCards from "./components/LeftCards.vue";
+import YearList from "./components/YearList.vue";
+import WordCloud from "./components/WordCloud.vue";
+import Knowledge from "./components/Knowledge.vue";
 </script>
 <style scoped lang="scss">
 #app {
@@ -73,7 +73,7 @@ import Knowledge from './components/Knowledge.vue'
 
       .PaperList {
         width: 95%;
-        height: 60%;
+        height: 52%;
         margin: 2.5%;
         border: 0.15vw solid gray;
         border-radius: 0.5vw;
@@ -82,7 +82,7 @@ import Knowledge from './components/Knowledge.vue'
 
       .WordCloud {
         width: 95%;
-        height: 37%;
+        height: 45%;
         margin: 2.5%;
         border: 0.15vw solid gray;
         border-radius: 0.5vw;

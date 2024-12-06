@@ -5,9 +5,9 @@
     <div class="list-title">
       <!--会议期刊选择-->
       <el-cascader v-model="PaperValue" :options="options" :props="props" @change="InitPaperList"
-                   :show-all-levels="false" style="width: 30%;" popper-class="cascader-popper"/>
+                   :show-all-levels="true" style="width: 30%;" popper-class="cascader-popper"/>
       <!--选择年份-->
-      <el-select v-model="YearValue" placeholder="年份" style="width: 30%; margin-left:1%"
+      <el-select v-model="YearValue" placeholder="请选择年份年份" style="width: 30%; margin-left:1%"
                  @change="SelectYear" clearable @clear="ClearYear">
         <el-option v-for="item in PaperYearList" :key="item.value" :label="item.label" :value="item.value"/>
       </el-select>
@@ -18,7 +18,7 @@
     <el-divider style="width: 96%;margin: 1vh 2%;"/>
     <div class="table">
       <!--  论文列表显示    -->
-      <el-table v-loading="loading" :data="PaperNameList" height="48vh" style="width: 96%;margin: 1vh" lazy stripe>
+      <el-table v-loading="loading" :data="PaperNameList" height="23vh" style="width: 96%;margin: 1vh" lazy stripe>
         <!--        <el-table-column prop="Year" label="Year" width="100"/>-->
         <el-table-column prop="PaperName" label="PaperName"/>
       </el-table>

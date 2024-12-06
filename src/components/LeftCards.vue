@@ -87,7 +87,6 @@ const initChartBox2 = () => {
         y: {
           title: "数量",
           titleSpacing: -10,
-
         }
       }
     })
@@ -95,7 +94,7 @@ const initChartBox2 = () => {
       title: '不同等级的期刊或会议数量',
       align: 'center',
     })
-    chart.interval().data(data).encode('x', item).encode('y', 'count').encode('color', 'type').transform({type: 'dodgeX'})
+    chart.interval().data(data).encode('x', 'category').encode('y', 'count').encode('color', 'rank').transform({ type: 'stackY' })
     chart.render()
   })
 }
